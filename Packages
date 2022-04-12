@@ -1,0 +1,14 @@
+Package: com.cokepokes.appstoreplusplus_0.9.2
+Version: 0.9.2
+Section: Tweaks
+Maintainer: AzIsten <szia123.ttw@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.cokepokes.appstoreplusplus_0.9.2_iphoneos-arm 2.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: New Package
+Author: AzIsten <szia123.ttw@gmail.com>
+Depiction: https://tabletopdock9.github.io/tabletrepos/depictions/?p=com.supermamon.newpackage
+Size: 1627
